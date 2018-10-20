@@ -1,0 +1,19 @@
+D:\Programming\Windows Forms\Projects\Specks\Specks\bin\Debug\Specks.exe.config
+D:\Programming\Windows Forms\Projects\Specks\Specks\bin\Debug\Specks.exe
+D:\Programming\Windows Forms\Projects\Specks\Specks\bin\Debug\Specks.pdb
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.csprojResolveAssemblyReference.cache
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.Properties.Resources.resources
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.csproj.GenerateResource.Cache
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.exe
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.pdb
+D:\Programming\Windows Forms\Projects\Specks\Specks\obj\Debug\Specks.Form1.resources
+d:\Programming\Projects\Specks\Specks\bin\Debug\Specks.exe.config
+d:\Programming\Projects\Specks\Specks\bin\Debug\Specks.exe
+d:\Programming\Projects\Specks\Specks\bin\Debug\Specks.pdb
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.csprojAssemblyReference.cache
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.Form1.resources
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.Properties.Resources.resources
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.csproj.GenerateResource.cache
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.csproj.CoreCompileInputs.cache
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.exe
+d:\Programming\Projects\Specks\Specks\obj\Debug\Specks.pdb
